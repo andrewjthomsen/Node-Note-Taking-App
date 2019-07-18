@@ -1,0 +1,25 @@
+{
+  "name": "node-todo-app",
+  "version": "1.0.0",
+  "description": "Node based notes application",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewjthomsen/Node-Todo-App.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Andrew Thomsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewjthomsen/Node-Todo-App/issues"
+  },
+  "homepage": "https://github.com/andrewjthomsen/Node-Todo-App#readme",
+  "dependencies": {
+    "validator": "^11.1.0"
+  }
+}
