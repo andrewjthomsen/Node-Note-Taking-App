@@ -21,6 +21,7 @@
   "homepage": "https://github.com/andrewjthomsen/Node-Todo-App#readme",
   "dependencies": {
     "chalk": "^2.4.1",
-    "validator": "^11.1.0"
+    "validator": "^11.1.0",
+    "yargs": "^13.3.0"
   }
 }
